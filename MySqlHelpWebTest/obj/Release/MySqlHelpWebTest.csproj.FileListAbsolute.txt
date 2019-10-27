@@ -1,0 +1,7 @@
+F:\Projects\MySqlHelpWebTest\MySqlHelpWebTest\bin\MySqlHelpWebTest.dll.config
+F:\Projects\MySqlHelpWebTest\MySqlHelpWebTest\bin\MySqlHelpWebTest.dll
+F:\Projects\MySqlHelpWebTest\MySqlHelpWebTest\bin\MySqlHelpWebTest.pdb
+F:\Projects\MySqlHelpWebTest\MySqlHelpWebTest\obj\Release\MySqlHelpWebTest.csprojResolveAssemblyReference.cache
+F:\Projects\MySqlHelpWebTest\MySqlHelpWebTest\obj\Release\MySqlHelpWebTest.dll
+F:\Projects\MySqlHelpWebTest\MySqlHelpWebTest\obj\Release\MySqlHelpWebTest.pdb
+F:\Projects\MySqlHelpWebTest\MySqlHelpWebTest\bin\Renci.SshNet.dll
