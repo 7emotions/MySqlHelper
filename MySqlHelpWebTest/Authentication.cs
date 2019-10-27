@@ -7,7 +7,7 @@ namespace MySqlHelpWebTest
 {
     public class Authentication
     {
-        static private String pwd = "LongestChina!";
+        static private String pwd = "LongLiveChina";
         static public Boolean Authentic(String code)
         {
             if(code.Equals(pwd))
